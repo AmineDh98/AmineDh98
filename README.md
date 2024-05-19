@@ -24,6 +24,24 @@
 <br clear="left" />
 
 
+<h2>Projects Gallery</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="aruco.gif" alt="Aruco SLAM" style="width:100%">
+    </td>
+    <td>
+      <img src="hands-on.gif" alt="Navigation" style="width:100%">
+    </td>
+    <td>
+      <img src="mapping.gif" alt="Mapping" style="width:100%">
+    </td>
+  </tr>
+</table>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
