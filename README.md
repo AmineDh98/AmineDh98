@@ -13,6 +13,18 @@
 - 📫 How to reach me: aminedhemaied98.ad@gmail.com
 
 
+<h2>Languages and Tools:</h2>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /></a>
+<a href="https://cplusplus.com/"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /></a>
+<a href="https://www.ros.org/"><img align="left" alt="ROS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" /></a>
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluency/452/matlab.png" /></a>
+<a href="https://opencv.org/"><img align="left" alt="OpenCV" width="22px" src="https://img.icons8.com/color/452/opencv.png" /></a>
+<a href="http://gazebosim.org/"><img align="left" alt="Gazebo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" /></a>
+<br clear="left" />
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,17 +34,4 @@
 [youtube]: https://www.youtube.com/@aminedhemaied9857
 [linkedin]: https://www.linkedin.com/in/amine-dhemaied/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
