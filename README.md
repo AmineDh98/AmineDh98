@@ -40,6 +40,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="interv.gif" width="300"> <!-- Adjust width as needed -->
+    </td>
+    <td>
+      <img src="arduino_project.jpg" alt="Navigation" width="300"> 
+    </td>
+    <td>
+      <img src="robot_image.jpg" alt="Navigation" width="300"> 
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
