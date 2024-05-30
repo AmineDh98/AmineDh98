@@ -64,7 +64,7 @@
       <img src="https://github.com/AmineDh98/frankenstein/blob/main/images/carto.gif" width="300"> <!-- Adjust width as needed -->
     </td>
     <td>
-      <img src="manup.gif" width="300"> <!-- Adjust width as needed -->
+      <img src="manup.gif"  width="300"> <!-- Adjust width as needed -->
     </td>
   </tr>
 </table>
