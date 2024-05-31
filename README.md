@@ -29,27 +29,38 @@
 <table>
   <tr>
     <td>
-      <img src="aruco.gif" alt="Aruco SLAM" style="width:100%">
+      <a href="https://github.com/SyedMazhar6746/Hands-on-Perception">
+        <img src="aruco.gif" alt="Aruco SLAM" style="width:100%">
+      </a>
     </td>
     <td>
-      <img src="hands-on.gif" alt="Navigation" style="width:100%">
+      <a href="https://github.com/AmineDh98/autonomous_task/tree/Amine">
+        <img src="hands-on.gif" alt="Navigation" style="width:100%">
+      </a>
     </td>
     <td>
-      <img src="mapping.gif" alt="Mapping" style="width:100%">
+      <a href="https://github.com/AmineDh98/frankenstein">
+        <img src="mapping.gif" alt="Mapping" style="width:100%">
+      </a>
     </td>
   </tr>
 </table>
 
+
 <table>
   <tr>
     <td>
-      <img src="interv.gif" width="300"> <!-- Adjust width as needed -->
+      <a href="https://github.com/AmineDh98/autonomous_task/tree/Amine/Hands-on-Intervention">
+        <img src="interv.gif" width="300">
+      </a>
     </td>
     <td>
       <img src="arduino_project.jpg" alt="Navigation" width="300"> 
     </td>
     <td>
-      <img src="robot_image.jpg" alt="Navigation" width="300"> 
+      <a href="https://github.com/IFRoS-ELTE/ball_picking_project">
+        <img src="robot_image.jpg" alt="Navigation" width="300"> 
+      </a>
     </td>
   </tr>
 </table>
@@ -58,13 +69,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/AmineDh98/sayens/blob/main/images/example2.gif" width="300"> <!-- Adjust width as needed -->
+      <a href="https://github.com/AmineDh98/sayens">
+        <img src="https://github.com/AmineDh98/sayens/blob/main/images/example2.gif" width="270"> 
+      </a>
+    <td>
+       <a href="https://github.com/AmineDh98/frankenstein">
+          <img src="https://github.com/AmineDh98/frankenstein/blob/main/images/carto.gif" width="300">
+        </a>
     </td>
     <td>
-      <img src="https://github.com/AmineDh98/frankenstein/blob/main/images/carto.gif" width="300"> <!-- Adjust width as needed -->
-    </td>
-    <td>
-      <img src="manup.gif"  width="300"> <!-- Adjust width as needed -->
+      <a href="https://drive.google.com/file/d/1qrz4vulgcHwBiVmcB5Z45oprHb5yW7Cm/view?usp=sharing">
+        <img src="manup.gif"  width="300"> 
+      </a>
     </td>
   </tr>
 </table>
