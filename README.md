@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AmineDh98/sayens">
+      <a href="https://github.com/AmineDh98/7dof_arm_control_with_camera">
         <img src="https://github.com/AmineDh98/sayens/blob/main/images/example2.gif" width="270"> 
       </a>
     <td>
