@@ -15,12 +15,14 @@
 
 <h2>Languages and Tools:</h2>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /></a>
-<a href="https://cplusplus.com/"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /></a>
-<a href="https://www.ros.org/"><img align="left" alt="ROS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" /></a>
+<a href="https://cplusplus.com/"><img align="left" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" /></a>
+<a href="https://www.ros.org/"><img align="left" alt="ROS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" /></a>
 <a href="https://www.java.com/en/"><img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /></a>
 <a href="https://www.mathworks.com/products/matlab.html"><img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluency/452/matlab.png" /></a>
 <a href="https://opencv.org/"><img align="left" alt="OpenCV" width="22px" src="https://img.icons8.com/color/452/opencv.png" /></a>
 <a href="http://gazebosim.org/"><img align="left" alt="Gazebo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" /></a>
+<a href="https://pytorch.org/"><img align="left" alt="Pytorch" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" /></a>
+<a href="https://numpy.org/"><img align="left" alt="NumPy" width="22px" src="https://avatars.githubusercontent.com/u/288276?v=4" /></a>
 <br clear="left" />
 
 
