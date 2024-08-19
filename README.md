@@ -8,7 +8,7 @@
 
 **An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems**
 
-- 🔭 I’m currently working on my Master thesis project.
+- 🔭 I’m currently working on RTI-Robotic project.
 - 🌱 I’m currently learning ROS2, Jenkins and deep learning
 - 📫 How to reach me: aminedhemaied98.ad@gmail.com
 
