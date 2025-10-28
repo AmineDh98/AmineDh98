@@ -8,8 +8,8 @@
 
 **An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems**
 
-- 🔭 I’m currently working on RTI-Robotic project.
-- 🌱 I’m currently learning ROS2, Jenkins and deep learning
+- 🔭 I’m currently working on Navigation and Path Planning using Nav2.
+- 🌱 I’m currently learning Optimization-based path planning, Jenkins and deep learning
 - 📫 How to reach me: aminedhemaied98.ad@gmail.com
 
 
