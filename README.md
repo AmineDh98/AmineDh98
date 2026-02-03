@@ -6,7 +6,8 @@
 
 <h2>👨‍💻 Welcome to my Github profile</h2>
 
-**An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems**
+**A robotics researcher**
+**An Erasmus Mundus Joint Master's holder in Intelligent Field Robotic Systems**
 
 - 🔭 I’m currently working on Navigation and Path Planning using Nav2.
 - 🌱 I’m currently learning Optimization-based path planning, Jenkins and deep learning
