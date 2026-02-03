@@ -7,6 +7,7 @@
 <h2>👨‍💻 Welcome to my Github profile</h2>
 
 **A robotics researcher**
+
 **An Erasmus Mundus Joint Master's holder in Intelligent Field Robotic Systems**
 
 - 🔭 I’m currently working on Navigation and Path Planning using Nav2.
